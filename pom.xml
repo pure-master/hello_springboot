@@ -30,6 +30,7 @@
     </dependencies>
 
     <build>
+        <finalName>hello_springboot-1.0-SNAPSHOT</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
